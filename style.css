@@ -17,7 +17,7 @@
     --tool-name-size-mobile: 1.1rem;
     --tool-task-size-mobile: 0.67rem;
     
-    --title-size-desktop: 2.3rem;
+    --title-size-desktop: 2.2rem;
     --text-size-desktop: 1rem;
     --tool-name-size-desktop: 1.3rem;
     --tool-task-size-desktop: 0.8rem;
@@ -157,7 +157,7 @@ main {
         "supervisor team calculator"
         "supervisor karma calculator";
         grid-template-columns: 1fr 1fr 1fr;
-        gap: 1.5rem;
+        gap: 1.8rem;
         padding: 0;
     }
 
